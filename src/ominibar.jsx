@@ -12,6 +12,7 @@ import {
 } from '@blueprintjs/core'
 import { stockSelectProps } from './stocks'
 import jwt from 'jsonwebtoken'
+import './index.css'
 
 const StockOminibar = Omnibar.ofType()
 
